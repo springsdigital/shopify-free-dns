@@ -5,9 +5,10 @@ Servicio de DNS Gratuito para Shopify
 * Dominio .cl comprado
 * Shopify con plan activo
 
-Si no tienes alguno de los 2, escríbenos a hola@springsdigital.com y con gusto te ayudamos.
+Si no tienes alguno de los 2, [escríbenos](https://springsdigital.com/contacto) y con gusto te ayudamos.
+También te podemos ayudar con un dominio .com, .net, .org, etc, pero [escríbenos](https://springsdigital.com/contacto) para ayudarte, ya que la configuración dependerá mucho del proveedor.
 
-## Guia de Activación
+## Guia de Activación para dominios .cl
 1.- Ingresa al panel de control de NIC Chile y selecciona tu dominio.
 
 2.- Baja hasta la sección **4. Servidores de nombre (DNS)**, e ingresa los siguientes DNS en orden:
