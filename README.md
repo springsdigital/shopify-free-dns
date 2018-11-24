@@ -35,6 +35,5 @@ Deben quedarte así
 > https://help.shopify.com/es/manual/domains/add-a-domain/using-existing-domains/connecting-domains
 
 Eso es todo!
-Si quieres, puedes [comprarle a Bruno un café](https://buymeacoff.ee/brunocalderon).
 
-**Feliz Shopifying!**
+**Happy Shopifying!**
