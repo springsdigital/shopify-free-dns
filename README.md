@@ -12,22 +12,19 @@ También te podemos pre-configurar un dominio .com, .net, .org, etc, pero [escr�
 1.- Ingresa al panel de control de NIC Chile y selecciona tu dominio.
 
 2.- Baja hasta la sección **4. Servidores de nombre (DNS)**, e ingresa los siguientes DNS en orden:
-> ns1.private-nameserver.net
+> ns1.springsdigitalcloud.com
 
-> ns2.private-nameserver.net
+> ns2.springsdigitalcloud.com
 
-> ns3.private-nameserver.net
+> ns3.springsdigitalcloud.com
 
-> ns4.private-nameserver.net
-
-Deben quedarte así
-![DNS](https://public.store-genius.com/free-dns-nameservers.png "DNS")
+> ns4.springsdigitalcloud.com
 
 3.- Baja hasta la sección **5. Condiciones de contratación**, y aprieta el botón verde de **Actualizar datos de dominio**
 
-4.- Rellena nuestro formulario de activación:
-> https://springsdigital.com/shopify-dns
-* Nuestro tiempo de procesamiento es de 24 horas.
+4.- Rellena nuestro [formulario de activación](https://springsdigital.com/shopify/dns):
+> https://springsdigital.com/shopify/free-dns
+* Nuestro tiempo de procesamiento habitual es de 24 horas hábiles.
 
 5.- Te enviaremos un correo de confirmación cuando tu dominio esté activo en nuestro servicio de DNS.
 
